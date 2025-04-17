@@ -1,7 +1,6 @@
 # LCD with ESP nano
 ## LCD-with-ESP-Endless-Runner-game
 
-![ESPnano with LCD game 02](https://github.com/user-attachments/assets/2fe52b80-3a3e-4a29-92d7-50208a50132e)
 ![ESPnano with LCD game 01](https://github.com/user-attachments/assets/41383e9d-980c-4c4a-a2af-96610f3bcec5)
 
 https://github.com/user-attachments/assets/a7202d7f-96ba-4e29-b834-f4e0b7aef6dd
@@ -323,6 +322,8 @@ void loop(){
   delay(100);
 }
 ```
+
+![ESPnano with LCD game 02](https://github.com/user-attachments/assets/2fe52b80-3a3e-4a29-92d7-50208a50132e)
 
 ![WhatsApp Image 2025-04-18 at 02 29 22_b92549fb](https://github.com/user-attachments/assets/78793183-864f-402e-835b-441de0f1f2e4)
 </br>
