@@ -4,7 +4,6 @@
 ![ESPnano with LCD game 02](https://github.com/user-attachments/assets/2fe52b80-3a3e-4a29-92d7-50208a50132e)
 ![ESPnano with LCD game 01](https://github.com/user-attachments/assets/41383e9d-980c-4c4a-a2af-96610f3bcec5)
 
-
 ```cpp
 #include <LiquidCrystal.h>
 
@@ -319,4 +318,6 @@ void loop(){
 ```
 
 ![WhatsApp Image 2025-04-18 at 02 29 22_b92549fb](https://github.com/user-attachments/assets/78793183-864f-402e-835b-441de0f1f2e4)
+</br>
+
 ![WhatsApp Image 2025-04-18 at 02 29 23_b84118d3](https://github.com/user-attachments/assets/3aa39075-7f19-4eae-a5d8-e79922c76754)
