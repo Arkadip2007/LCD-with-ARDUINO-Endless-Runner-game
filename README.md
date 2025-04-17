@@ -4,6 +4,8 @@
 ![ESPnano with LCD game 02](https://github.com/user-attachments/assets/2fe52b80-3a3e-4a29-92d7-50208a50132e)
 ![ESPnano with LCD game 01](https://github.com/user-attachments/assets/41383e9d-980c-4c4a-a2af-96610f3bcec5)
 
+public/ESP-nano-with-LCD-game.mp4
+
 ```cpp
 #include <LiquidCrystal.h>
 
