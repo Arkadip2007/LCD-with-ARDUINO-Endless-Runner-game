@@ -6,6 +6,11 @@
 
 https://github.com/user-attachments/assets/a7202d7f-96ba-4e29-b834-f4e0b7aef6dd
 
+> full video [link](https://youtu.be/NBkIp5w3Vao) on YouTube & all [connections](public/connections.png) with `ARDUINO` & `LCD`
+
+</br>
+</br>
+
 ```cpp
 #include <LiquidCrystal.h>
 
