@@ -260,7 +260,9 @@ void loop(){
     drawHero((blink) ? HERO_POSITION_OFF : heroPos, terrainUpper, terrainLower, distance >> 3);
     if (blink) {
       lcd.setCursor(0,0);
-      lcd.print("Game Over");
+      lcd.print(" Game Over :)");
+      lcd.setCursor(0,1);
+      lcd.print("ArkadipMahapatra");
     }
     delay(250);
     blink = !blink;
@@ -316,3 +318,5 @@ void loop(){
 }
 ```
 
+![WhatsApp Image 2025-04-18 at 02 29 22_b92549fb](https://github.com/user-attachments/assets/78793183-864f-402e-835b-441de0f1f2e4)
+![WhatsApp Image 2025-04-18 at 02 29 23_b84118d3](https://github.com/user-attachments/assets/3aa39075-7f19-4eae-a5d8-e79922c76754)
