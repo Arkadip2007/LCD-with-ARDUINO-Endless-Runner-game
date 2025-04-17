@@ -323,6 +323,10 @@ void loop(){
 }
 ```
 
+https://github.com/user-attachments/assets/b8617f1f-419e-478e-91a8-e253baafa963
+
+---
+
 ![ESPnano with LCD game 02](https://github.com/user-attachments/assets/2fe52b80-3a3e-4a29-92d7-50208a50132e)
 
 ![WhatsApp Image 2025-04-18 at 02 29 22_b92549fb](https://github.com/user-attachments/assets/78793183-864f-402e-835b-441de0f1f2e4)
