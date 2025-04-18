@@ -1,5 +1,5 @@
-# LCD with ESP nano 🎚️📟
-## 📟 LCD with ESP Endless Runner game
+# LCD with ARDUINO nano 🎚️📟
+## 📟 LCD with ARDUINO Endless Runner game
 
 ![ESPnano with LCD game 01](https://github.com/user-attachments/assets/41383e9d-980c-4c4a-a2af-96610f3bcec5)
 
