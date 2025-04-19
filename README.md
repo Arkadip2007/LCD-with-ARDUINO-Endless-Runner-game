@@ -339,6 +339,7 @@ https://github.com/user-attachments/assets/b8617f1f-419e-478e-91a8-e253baafa963
 ### Next Game Project
 
 </br>
+
 [<img src="public/ARDUINO & Display Games.jpg">](https://github.com/Arkadip2007/ARDUINO-with-OLED-Display-Game)
 
 > click to show the upper Project code.
